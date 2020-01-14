@@ -1,5 +1,5 @@
 def hello
-  p "hello, oooi."
+  p "hello, おーいお茶."
 end
 
 hello
